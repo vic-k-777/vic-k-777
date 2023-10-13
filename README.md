@@ -1,4 +1,9 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="100"/>
+</div>
+
+### Привет, меня зовут Виктория!
+P.S. Не путайте с фамилией))))👋
 
 <!--
 **vic-k-777/vic-k-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
