@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="200"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=vic-k-777&style=flat-square&color=blue" alt=""/>
-<h1 align="center">Привет! Меня зовут Виктория <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Привет! Меня зовут <a href="https://daniilshat.ru/" target="_blank">Виктория</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> P.S. Не путайте с фамилией))))👋 🇷🇺</h3>
+<h3 align="center"> P.S. Не путайте с фамилией))))👋</h3>
 
 <!--
 **vic-k-777/vic-k-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?vic-k-777=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vic-k-777&layout=compact)](https://github.com/vic-k-777/github-readme-stats)
