@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="200"/>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=vic-k-777&style=flat-square&color=blue" alt=""/>
 ### Привет, меня зовут Виктория!
 P.S. Не путайте с фамилией))))👋
 
