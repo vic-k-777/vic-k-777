@@ -22,3 +22,12 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vic-k-777&layout=compact)](https://github.com/vic-k-777/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Немного+о+себе:)](https://git.io/typing-svg)
+
+Мне нравится изучать новое, решать интересные задачи. Современные технологии позволяют сделать окружающий нас мир чуть комфортнее и лучше, и мне бы хотелось в этом участвовать.
+В 2023 году закончила курс Яндекс.Практикума по разработке на Python. Cейчас самостоятельно изучаю FastAPI. 
+
+Всегда открыла новым идеям и сотрудничеству. Если у вас есть интересные предложения для совместных проектов, давайте реализуем их вместе. 
+
+
