@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=vic-k-777&style=flat-square&color=blue" alt=""/>
 <h1 align="center">Привет! Меня зовут <a href="https://daniilshat.ru/" target="_blank">Виктория</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> P.S. Не путайте с фамилией))))👋</h3>
+
 
 <!--
 **vic-k-777/vic-k-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
